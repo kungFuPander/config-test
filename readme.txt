@@ -10,3 +10,4 @@ test merge by dev
 test stash369
 test stash a momonet
 this is 12 n
+test rebase
