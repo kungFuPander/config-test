@@ -7,4 +7,4 @@ test back
 create a new branch dev
 conflict fixed
 test merge by dev
-test stash2
+test stash369
