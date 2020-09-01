@@ -9,4 +9,3 @@ conflict fixed
 test merge by dev
 test stash369
 test stash a momonet
-test copy commit 
